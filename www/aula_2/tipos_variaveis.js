@@ -16,7 +16,7 @@ console.log(typeof saldo)
 var indefinido;//undefined
 console.log(typeof indefinido)
 
-var cidade = "Rio de Janeiro" //undefined
+var cidade = "Rio de Janeiro" //string
 console.log(typeof cidadade)
 
 var numeroGrande = 1000000; //number
