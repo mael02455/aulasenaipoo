@@ -9,7 +9,7 @@ class Carro {
 }
 
 // criando objeto (instância)
-var carro1 = new carro()
+var carro1 = new Carro()
 carro1.marca = "Chevrolet"
 carro1.modelo = "hatch"
 carro1.ano = "2005"
@@ -19,7 +19,7 @@ console.log(carro1.marca)
 console.log(carro1.modelo)
 console.log(carro1.ano)
 
-var carro2 = new carro()
+var carro2 = new Carro()
 carro2.marca =  "Chevrolet"
 carro2.modelo = "opala"
 carro2.ano = "1968"

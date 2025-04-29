@@ -1,7 +1,6 @@
 class Livro {
     titulo;
     autor;
-    exibirinfo
     info(titulo,autor ){
         this.titulo = titulo
         this.autor = autor
